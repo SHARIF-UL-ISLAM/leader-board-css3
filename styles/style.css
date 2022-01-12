@@ -98,12 +98,12 @@ height: 117px;
 .course-duration{
     color: #FF4A60;
 }
-/* .fa-star{ */
+.fa-star{
     font-size: 20px;
 }
-/* .fa-star.filled{ */
+.fa-star.filled{
     color: #FFC014;
-
-/* .fa-star.empty{ */
+     }
+.fa-star.empty{
     color: #AEAEAE;
 }
